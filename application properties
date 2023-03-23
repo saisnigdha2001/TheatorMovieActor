@@ -1,5 +1,4 @@
-#Default
-
+#default
 eureka.instance.prefer-ip-address=true
 #by default true
 eureka.client.fetch-registry=true
